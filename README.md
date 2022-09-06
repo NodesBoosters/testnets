@@ -1,0 +1,2 @@
+# testnets
+Supported testnets
